@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/josefelq/toxicity-task-scheduler#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "cron": "^1.3.0",
     "mongoose": "^5.2.4"
   }
